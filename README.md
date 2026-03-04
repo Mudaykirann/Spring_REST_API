@@ -2,6 +2,8 @@
 
 A clean, layered Spring Boot REST API demonstrating full CRUD operations on a `User` entity backed by MySQL.
 
+This one Uses the Spring MVC -- Controllers & Mapping Methods.
+
 ---
 
 ## Project Structure
